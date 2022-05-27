@@ -20,7 +20,7 @@ To successfully conduct this project I used CRISP DM;
 -explanatory data analysis
 
 
-**DATA**
+**DATASET**
 
 [link](http://bit.ly/IPAdvertisingData)
 
