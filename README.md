@@ -22,5 +22,5 @@ To successfully conduct this project I used CRISP DM;
 
 **DATA**
 
-[advertising data set]('http://bit.ly/IPAdvertisingData')
+[link](http://bit.ly/IPAdvertisingData)
 
