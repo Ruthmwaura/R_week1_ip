@@ -1,5 +1,10 @@
 # R_week1_ip
 
+**DISCLAIMER**
+This project is for learning purpose.
+
+**OVERVIEW**
+
 A Kenyan entrepreneur has created an online cryptography course and would want 
 to advertise it on her blog. She currently targets audiences originating from 
 various countries. In the past, she ran ads to advertise a related course on the 
