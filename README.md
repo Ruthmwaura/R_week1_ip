@@ -29,3 +29,12 @@ To successfully conduct this project I used CRISP DM;
 
 [link](http://bit.ly/IPAdvertisingData)
 
+**Rpubs**
+
+Here is a link to the code [link](https://rpubs.com/RuthM/908253)
+
+
+
+
+
+
